@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318795722034",
+    "project_id": "appauthentication-cf74c",
+    "storage_bucket": "appauthentication-cf74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318795722034:android:5cd7aab2393a05ed253b2b",
+        "android_client_info": {
+          "package_name": "com.example.game_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318795722034-728meekuire22kb2j1l2t7788jm55m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0rN90agux4mkSJIsTa0Pu2f5LaJWbCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318795722034-728meekuire22kb2j1l2t7788jm55m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
